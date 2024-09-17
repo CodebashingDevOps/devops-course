@@ -32,7 +32,7 @@ def serve_html():
     </head>
     <body>
         <h1>Welcome to our Website!</h1>
-        <img src="/static/new_cat_pic.png" alt="Picture">
+        <img src="/static/new_cat_pic3.png" alt="Picture">
     </body>
     </html>
     '''
